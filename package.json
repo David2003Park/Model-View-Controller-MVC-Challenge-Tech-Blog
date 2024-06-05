@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanzubayer/Model-View-Controller-MVC-Challenge-Tech-Blog"
+    "url": "git+https:https://github.com/David2003Park/Model-View-Controller-MVC-Challenge-Tech-Blog"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ryanzubayer/Model-View-Controller-MVC-Challenge-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/ryanzubayer/Model-View-Controller-MVC-Challenge-Tech-Blog/blob/main/README.md",
+  "homepage": "https://github.com/David2003Park/Model-View-Controller-MVC-Challenge-Tech-Blog/blob/main/README.md",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.3",
